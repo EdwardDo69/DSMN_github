@@ -1,9 +1,8 @@
 # DSMN_github
+This is the PyTorch implementation of our paper: <br>
 Multi-Source Domain Adaptation for Object Detection ICCV 2021
+Xingxu Yao, Sicheng Zhao, Pengfei Xu, Jufeng Yang
 
-<p align="center">
-<img src="model.png" width="85%">
-</p>
 # Installation
 
 ## Prerequisites
