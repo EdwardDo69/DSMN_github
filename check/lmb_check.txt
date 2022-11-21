@@ -1,0 +1,51 @@
+/home/edward/anaconda3/envs/msda/bin/python /snap/pycharm-professional/300/plugins/python/helpers/pydev/pydevconsole.py --mode=client --host=127.0.0.1 --port=41817
+import sys; print('Python %s on %s' % (sys.version, sys.platform))
+sys.path.extend(['/mnt/work2/phat/TEST/conLoss_MSDAOD', '/mnt/work2/phat/TEST/conLoss_MSDAOD', '/mnt/work2/phat/TEST/conLoss_MSDAOD/lib', '/mnt/work2/phat/TEST/conLoss_MSDAOD/lib', '/mnt/work2/phat/TEST/conLoss_MSDAOD'])
+PyDev console: starting.
+Python 3.6.7 |Anaconda, Inc.| (default, Oct 23 2018, 19:16:44)
+[GCC 7.3.0] on linux
+>>> runfile('/mnt/work2/phat/TEST/conLoss_MSDAOD/check_checkpoint.py', wdir='/mnt/work2/phat/TEST/conLoss_MSDAOD')
+loading checkpoint /mnt/work2/phat/TEST/conLoss_MSDAOD/save_model/train_adap_car_2/mskda_car_10.pth
+Lmb1: 10000, Lmb2: 10000
+Lmb1: 0.0007782893145380512, Lmb2: 0.0005649586342966359
+loading finish /mnt/work2/phat/TEST/conLoss_MSDAOD/save_model/train_adap_car_2/mskda_car_10.pth
+loading checkpoint /mnt/work2/phat/TEST/conLoss_MSDAOD/save_model/train_adap_car_2/mskda_car_11.pth
+Lmb1: 20000, Lmb2: 20000
+Lmb1: 0.0007592753221094426, Lmb2: 0.0005490640306286878
+loading finish /mnt/work2/phat/TEST/conLoss_MSDAOD/save_model/train_adap_car_2/mskda_car_11.pth
+loading checkpoint /mnt/work2/phat/TEST/conLoss_MSDAOD/save_model/train_adap_car_2/mskda_car_12.pth
+Lmb1: 30000, Lmb2: 30000
+Lmb1: 0.0007304105146550986, Lmb2: 0.0005459498117602077
+loading finish /mnt/work2/phat/TEST/conLoss_MSDAOD/save_model/train_adap_car_2/mskda_car_12.pth
+loading checkpoint /mnt/work2/phat/TEST/conLoss_MSDAOD/save_model/train_adap_car_2/mskda_car_13.pth
+Lmb1: 40000, Lmb2: 40000
+Lmb1: 0.0007079562833037926, Lmb2: 0.0005422773486965071
+loading finish /mnt/work2/phat/TEST/conLoss_MSDAOD/save_model/train_adap_car_2/mskda_car_13.pth
+loading checkpoint /mnt/work2/phat/TEST/conLoss_MSDAOD/save_model/train_adap_car_2/mskda_car_14.pth
+Lmb1: 50000, Lmb2: 50000
+Lmb1: 0.0006892539788601425, Lmb2: 0.0005362536003478453
+loading finish /mnt/work2/phat/TEST/conLoss_MSDAOD/save_model/train_adap_car_2/mskda_car_14.pth
+loading checkpoint /mnt/work2/phat/TEST/conLoss_MSDAOD/save_model/train_adap_car_2/mskda_car_15.pth
+Lmb1: 60000, Lmb2: 60000
+Lmb1: 0.0006724613948542659, Lmb2: 0.0005310707438862664
+loading finish /mnt/work2/phat/TEST/conLoss_MSDAOD/save_model/train_adap_car_2/mskda_car_15.pth
+loading checkpoint /mnt/work2/phat/TEST/conLoss_MSDAOD/save_model/train_adap_car_2/mskda_car_16.pth
+Lmb1: 70000, Lmb2: 70000
+Lmb1: 0.0006613589508736498, Lmb2: 0.0005238683009585137
+loading finish /mnt/work2/phat/TEST/conLoss_MSDAOD/save_model/train_adap_car_2/mskda_car_16.pth
+loading checkpoint /mnt/work2/phat/TEST/conLoss_MSDAOD/save_model/train_adap_car_2/mskda_car_17.pth
+Lmb1: 80000, Lmb2: 80000
+Lmb1: 0.0006503897715960307, Lmb2: 0.0005169850154568849
+loading finish /mnt/work2/phat/TEST/conLoss_MSDAOD/save_model/train_adap_car_2/mskda_car_17.pth
+loading checkpoint /mnt/work2/phat/TEST/conLoss_MSDAOD/save_model/train_adap_car_2/mskda_car_18.pth
+Lmb1: 90000, Lmb2: 90000
+Lmb1: 0.0006414732138523302, Lmb2: 0.0005114158342778359
+loading finish /mnt/work2/phat/TEST/conLoss_MSDAOD/save_model/train_adap_car_2/mskda_car_18.pth
+loading checkpoint /mnt/work2/phat/TEST/conLoss_MSDAOD/save_model/train_adap_car_2/mskda_car_19.pth
+Lmb1: 100000, Lmb2: 100000
+Lmb1: 0.0006353863869551151, Lmb2: 0.0005061747807933717
+loading finish /mnt/work2/phat/TEST/conLoss_MSDAOD/save_model/train_adap_car_2/mskda_car_19.pth
+loading checkpoint /mnt/work2/phat/TEST/conLoss_MSDAOD/save_model/train_adap_car_2/mskda_car_20.pth
+Lmb1: 110000, Lmb2: 110000
+Lmb1: 0.000627888976298552, Lmb2: 0.0005017804595483043
+loading finish /mnt/work2/phat/TEST/conLoss_MSDAOD/save_model/train_adap_car_2/mskda_car_20.pth

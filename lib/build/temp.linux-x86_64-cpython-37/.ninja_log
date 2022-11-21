@@ -1,0 +1,22 @@
+# ninja log v5
+0	15416	1661498196998141435	/mnt/work2/phat/CODING/confidenceLoss_conLoss_MSDAOD/lib/build/temp.linux-x86_64-cpython-37/mnt/work2/phat/CODING/confidenceLoss_conLoss_MSDAOD/lib/model/csrc/cpu/ROIAlign_cpu.o	e3906f76de2a0135
+0	15560	1661498197142139617	/mnt/work2/phat/CODING/confidenceLoss_conLoss_MSDAOD/lib/build/temp.linux-x86_64-cpython-37/mnt/work2/phat/CODING/confidenceLoss_conLoss_MSDAOD/lib/model/csrc/cpu/nms_cpu.o	ac9b16b0a790b901
+0	17526	1661498199106114836	/mnt/work2/phat/CODING/confidenceLoss_conLoss_MSDAOD/lib/build/temp.linux-x86_64-cpython-37/mnt/work2/phat/CODING/confidenceLoss_conLoss_MSDAOD/lib/model/csrc/vision.o	4df0f08d23e62a45
+4	15314	1661498214841916653	/mnt/work2/phat/CODING/confidenceLoss_conLoss_MSDAOD/lib/build/temp.linux-x86_64-cpython-37/mnt/work2/phat/CODING/confidenceLoss_conLoss_MSDAOD/lib/model/csrc/cpu/ROIAlign_cpu.o	cbfb036c593bbd29
+4	15536	1661498215065913836	/mnt/work2/phat/CODING/confidenceLoss_conLoss_MSDAOD/lib/build/temp.linux-x86_64-cpython-37/mnt/work2/phat/CODING/confidenceLoss_conLoss_MSDAOD/lib/model/csrc/cpu/nms_cpu.o	c1b4cf0db3cb090b
+5	17500	1661498217025889198	/mnt/work2/phat/CODING/confidenceLoss_conLoss_MSDAOD/lib/build/temp.linux-x86_64-cpython-37/mnt/work2/phat/CODING/confidenceLoss_conLoss_MSDAOD/lib/model/csrc/vision.o	46229a8afbc6e3c
+2	14865	1661500185069864260	/mnt/work2/phat/CODING/confidenceLoss_conLoss_MSDAOD/lib/build/temp.linux-x86_64-cpython-37/mnt/work2/phat/CODING/confidenceLoss_conLoss_MSDAOD/lib/model/csrc/cpu/ROIAlign_cpu.o	3453d4e22a968719
+3	15020	1661500185225862242	/mnt/work2/phat/CODING/confidenceLoss_conLoss_MSDAOD/lib/build/temp.linux-x86_64-cpython-37/mnt/work2/phat/CODING/confidenceLoss_conLoss_MSDAOD/lib/model/csrc/cpu/nms_cpu.o	88ebe3483fc9e9ac
+4	17100	1661500187301835391	/mnt/work2/phat/CODING/confidenceLoss_conLoss_MSDAOD/lib/build/temp.linux-x86_64-cpython-37/mnt/work2/phat/CODING/confidenceLoss_conLoss_MSDAOD/lib/model/csrc/vision.o	6f6a12fc0e90289b
+0	21793	1664859600679048468	/mnt/work1/phat/TEST/DSMN/lib/build/temp.linux-x86_64-cpython-37/mnt/work1/phat/TEST/DSMN/lib/model/csrc/cpu/ROIAlign_cpu.o	6384a63b250c25bd
+7	22312	1664859601203039894	/mnt/work1/phat/TEST/DSMN/lib/build/temp.linux-x86_64-cpython-37/mnt/work1/phat/TEST/DSMN/lib/model/csrc/cpu/nms_cpu.o	a46ae54e0fd5a8ca
+18	24191	1664859603079009222	/mnt/work1/phat/TEST/DSMN/lib/build/temp.linux-x86_64-cpython-37/mnt/work1/phat/TEST/DSMN/lib/model/csrc/vision.o	c7ef3af1a46ec1f0
+4	20793	1664859624882655058	/mnt/work1/phat/TEST/DSMN/lib/build/temp.linux-x86_64-cpython-37/mnt/work1/phat/TEST/DSMN/lib/model/csrc/cpu/ROIAlign_cpu.o	278631589630df93
+9	22175	1664859626270632655	/mnt/work1/phat/TEST/DSMN/lib/build/temp.linux-x86_64-cpython-37/mnt/work1/phat/TEST/DSMN/lib/model/csrc/cpu/nms_cpu.o	c72443b9c35767a6
+16	24362	1664859628454597435	/mnt/work1/phat/TEST/DSMN/lib/build/temp.linux-x86_64-cpython-37/mnt/work1/phat/TEST/DSMN/lib/model/csrc/vision.o	2f6ce697563cc82b
+2	20913	1664862519780626806	/mnt/work1/phat/TEST/DSMN/lib/build/temp.linux-x86_64-cpython-37/mnt/work1/phat/TEST/DSMN/lib/model/csrc/cpu/ROIAlign_cpu.o	6384a63b250c25bd
+2	21747	1664862520616616189	/mnt/work1/phat/TEST/DSMN/lib/build/temp.linux-x86_64-cpython-37/mnt/work1/phat/TEST/DSMN/lib/model/csrc/cpu/nms_cpu.o	a46ae54e0fd5a8ca
+2	24258	1664862523124584341	/mnt/work1/phat/TEST/DSMN/lib/build/temp.linux-x86_64-cpython-37/mnt/work1/phat/TEST/DSMN/lib/model/csrc/vision.o	c7ef3af1a46ec1f0
+2	20477	1664862544332315295	/mnt/work1/phat/TEST/DSMN/lib/build/temp.linux-x86_64-cpython-37/mnt/work1/phat/TEST/DSMN/lib/model/csrc/cpu/ROIAlign_cpu.o	278631589630df93
+2	20985	1664862544824309060	/mnt/work1/phat/TEST/DSMN/lib/build/temp.linux-x86_64-cpython-37/mnt/work1/phat/TEST/DSMN/lib/model/csrc/cpu/nms_cpu.o	c72443b9c35767a6
+2	24903	1664862548752259282	/mnt/work1/phat/TEST/DSMN/lib/build/temp.linux-x86_64-cpython-37/mnt/work1/phat/TEST/DSMN/lib/model/csrc/vision.o	2f6ce697563cc82b

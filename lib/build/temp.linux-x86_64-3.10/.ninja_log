@@ -1,0 +1,4 @@
+# ninja log v5
+0	17462	1659418817886128198	/data2/phat/TEST/Ajust_ema_update_Multi_Source_Domain_Adaptation_for_Object_Detection/lib/build/temp.linux-x86_64-3.10/data2/phat/TEST/Ajust_ema_update_Multi_Source_Domain_Adaptation_for_Object_Detection/lib/model/csrc/cpu/ROIAlign_cpu.o	e0542254c37cecc3
+1	17838	1659418818266122133	/data2/phat/TEST/Ajust_ema_update_Multi_Source_Domain_Adaptation_for_Object_Detection/lib/build/temp.linux-x86_64-3.10/data2/phat/TEST/Ajust_ema_update_Multi_Source_Domain_Adaptation_for_Object_Detection/lib/model/csrc/cpu/nms_cpu.o	20aceed641d8d34b
+2	19658	1659418820086093086	/data2/phat/TEST/Ajust_ema_update_Multi_Source_Domain_Adaptation_for_Object_Detection/lib/build/temp.linux-x86_64-3.10/data2/phat/TEST/Ajust_ema_update_Multi_Source_Domain_Adaptation_for_Object_Detection/lib/model/csrc/vision.o	7416419318500720
