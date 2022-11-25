@@ -26,7 +26,7 @@ python setup.py build develop
 Dataset folder
 
 <p align="left">
-<img src="bdd100k.png" width="20%">
+<img src="bdd100k.png" width="30%">
 </p>
 
 ## Cityscape
