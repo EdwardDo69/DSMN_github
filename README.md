@@ -25,7 +25,7 @@ python setup.py build develop
 ## BDD100k
 Dataset folder
 
-<p align="center">
+<p align="left">
 <img src="bdd100k.png" width="20%">
 </p>
 
