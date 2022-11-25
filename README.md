@@ -20,16 +20,16 @@ Xingxu Yao, Sicheng Zhao, Pengfei Xu, Jufeng Yang
 cd DSMN_github/lib
 python setup.py build develop
 
-#DATASET
+# DATASET
 
-##BDD100k
+## BDD100k
 Dataset folder
 
 <p align="center">
 <img src="bdd100k.png" width="20%">
 </p>
 
-##Cityscape
+## Cityscape
 Dataset folder
 	
 <p align="center">
@@ -48,7 +48,7 @@ Images name
 <img src="city_images.png" width="20%">
 </p>
 	
-##KITTI
+## KITTI
 Dataset folder
       
 <p align="center">
@@ -92,7 +92,8 @@ In the train_msda.sh file:
 train_msda_bdd.txt: detail of training process will be saved here
 
 
-#Test
+# Test
+
   
   We run the test_msda.py file.
   
