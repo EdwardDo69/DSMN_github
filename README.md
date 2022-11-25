@@ -32,27 +32,27 @@ Dataset folder
 ## Cityscape
 Dataset folder
 	
-<p align="center">
-<img src="cityscape.png" width="20%">
+<p align="left">
+<img src="cityscape.png" width="30%">
 </p>
   
 Annotations name
 	
-<p align="center">
-<img src="city_anno.png" width="20%">
+<p align="left">
+<img src="city_anno.png" width="30%">
 </p>
   
 Images name
 
-<p align="center">
-<img src="city_images.png" width="20%">
+<p align="left">
+<img src="city_images.png" width="30%">
 </p>
 	
 ## KITTI
 Dataset folder
       
-<p align="center">
-<img src="kitti.png" width="20%">
+<p align="left">
+<img src="kitti.png" width="30%">
 </p>
 		
 
